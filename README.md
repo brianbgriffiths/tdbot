@@ -1,0 +1,2 @@
+# tdbot
+ thunderdome discord bot
